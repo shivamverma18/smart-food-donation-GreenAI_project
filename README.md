@@ -1,7 +1,4 @@
 # 🍱 Smart Food Donation - Nagpur
-
-![Smart Food Donation Banner](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif) <!-- Optional: Replace with your own banner -->
-
 > Help reduce food waste and fight hunger by donating excess food. Our KMeans-based intelligent system routes donations to the most suitable nearby center in Nagpur.
 
 ---
@@ -60,6 +57,8 @@ Every day, a significant amount of edible food goes to waste while many continue
 ---
 
 ## 📸 Screenshot – System in Action
+
+![Donation Output](output.jpeg)
 
 ![Output Screenshot](./WhatsApp%20Image%202025-06-27%20at%201.53.34%20PM.jpeg)
 
