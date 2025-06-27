@@ -60,23 +60,12 @@ Every day, a significant amount of edible food goes to waste while many continue
 
 ![Donation Output](output.jpeg)
 
-![Output Screenshot](./WhatsApp%20Image%202025-06-27%20at%201.53.34%20PM.jpeg)
-
 > ✅ Your donation has been accepted! Assigned Center: `Center_4`  
 > 🍛 Updated Center Capacity is shown instantly.
 
 ---
-
-## 🧾 Sample Code Snippet
-
-```python
-# Clustering donation inputs
-kmeans = KMeans(n_clusters=3, random_state=42, n_init=10)
-kmeans.fit(center_df[['roti', 'rice', 'daal', 'others']])
-
-# Predict cluster for current donation
-user_cluster = kmeans.predict(user_vector)[0]
-...
-if has_capacity:
-    assigned_center = cname
-    ...
+## 👨‍💻 Team
+Anshul Bhusari
+Ashish Sharma
+Shivam Verma
+Vishesh Chandok
