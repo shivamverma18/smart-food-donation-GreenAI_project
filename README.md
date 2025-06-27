@@ -30,6 +30,14 @@ Every day, a significant amount of edible food goes to waste while many continue
 
 ---
 
+## 📸 Screenshot – System in Action
+
+![Donation Output](output.jpeg)
+
+> ✅ Your donation has been accepted! Assigned Center: `Center_4`  
+> 🍛 Updated Center Capacity is shown instantly.
+
+
 ## 📌 Problem Statement
 
 - Tons of edible food are wasted daily while hunger prevails.
@@ -56,16 +64,9 @@ Every day, a significant amount of edible food goes to waste while many continue
 
 ---
 
-## 📸 Screenshot – System in Action
-
-![Donation Output](output.jpeg)
-
-> ✅ Your donation has been accepted! Assigned Center: `Center_4`  
-> 🍛 Updated Center Capacity is shown instantly.
-
 ---
 ## 👨‍💻 Team
-Anshul Bhusari
-Ashish Sharma
-Shivam Verma
-Vishesh Chandok
+- Anshul Bhusari
+- Ashish Sharma
+- Shivam Verma
+- Vishesh Chandok
